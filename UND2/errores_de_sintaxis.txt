@@ -1,0 +1,20 @@
+Windows saber fallos de la sintaxis:
+
+cd c:/xammp/apache/bin
+httpd.exe -t
+
+linux:
+sudo nginx -t
+sudo systemctl reload nginx //reiniciar el servidor 
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
